@@ -2,6 +2,8 @@
 [![Code Climate](https://codeclimate.com/github/fcscripters/learn-node-tdd/badges/gpa.svg)](https://codeclimate.com/github/fcscripters/learn-node-tdd)
 [![Test Coverage](https://codeclimate.com/github/fcscripters/learn-node-tdd/badges/coverage.svg)](https://codeclimate.com/github/fcscripters/learn-node-tdd/coverage)
 [![codecov.io](http://codecov.io/github/fcscripters/learn-node-tdd/coverage.svg?branch=master)](http://codecov.io/github/fcscripters/learn-node-tdd?branch=master)
+[![Dependency Status](https://david-dm.org/fcscripters/learn-node-tdd.svg)](https://david-dm.org/fcscripters/learn-node-tdd)
+[![devDependency Status](https://david-dm.org/fcscripters/learn-node-tdd/dev-status.svg)](https://david-dm.org/fcscripters/learn-node-tdd#info=devDependencies)
 
 # Learn Node TDD
 
